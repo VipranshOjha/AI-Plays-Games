@@ -1,4 +1,4 @@
-# 🐍 Snake Game NEAT AI
+# 🐍 Snake Game: NEAT AI
 
 An AI-powered Snake game where the agent learns to play the classic Snake game using **NEAT** (NeuroEvolution of Augmenting Topologies).
 
