@@ -53,7 +53,6 @@ cd AI-Plays-Games
 
 ```
 pip install -r requirements.txt
-
 ```
 
 > Each subfolder may have its own `requirements.txt`, depending on the game.
