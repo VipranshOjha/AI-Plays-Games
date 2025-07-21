@@ -6,7 +6,7 @@ This repository showcases how **Artificial Intelligence** can be applied to clas
 
 ## 🎮 Projects Included
 
-### 1. 🦖 [Dino Runner](./Dino-Runner)
+### 1. 🦖 [Dino Runner](https://github.com/VipranshOjha/AI-Plays-Games/tree/main/Dino-Runner-Heuristic-AI)
 
 A Python recreation of the classic Chrome Dino game with an integrated **heuristic-based AI agent**.
 
@@ -18,7 +18,7 @@ A Python recreation of the classic Chrome Dino game with an integrated **heurist
 
 ---
 
-### 2. 🐤 [Flappy Bird NEAT AI](./Flappy-Bird-NEAT-AI)
+### 2. 🐤 [Flappy Bird NEAT AI](https://github.com/VipranshOjha/AI-Plays-Games/tree/main/Flappy-Bird-NEAT-AI)
 
 Trains AI agents to play Flappy Bird using the **NEAT (NeuroEvolution of Augmenting Topologies)** algorithm.
 
@@ -29,7 +29,7 @@ Trains AI agents to play Flappy Bird using the **NEAT (NeuroEvolution of Augment
 
 ---
 
-### 3. 🐍 [Snake Game NEAT AI](./Snake-Game-NEAT-AI)
+### 3. 🐍 [Snake Game NEAT AI](https://github.com/VipranshOjha/AI-Plays-Games/tree/main/Snake-Game-NEAT-AI)
 
 An AI-controlled Snake game powered by NEAT, where agents evolve to maximize their score by eating food while avoiding collisions.
 
